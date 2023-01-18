@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "lexer-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikpow/lexer-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushikpow/lexer-parser/issues"
+  },
+  "homepage": "https://github.com/kaushikpow/lexer-parser#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+10 println " line 10 "
+20 gosub 200
+30 println " line 30 "
+40 end
+200 println " in the sub "
+210 gosub 300
+220 println " back from 300 "
+230 ret
+300 println " start of 300 sub "
+310 ret
+320 end
